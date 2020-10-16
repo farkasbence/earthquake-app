@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Earthquake app</string>
+    <string name="earthquake_date">Date: %1$s</string>
+    <string name="earthquake_magnitude">Magnitude: %1$s</string>
+    <string name="earthquake_depth">Depth: %1$s</string>
+    <string name="earthquake_label">Earthquake location</string>
+    <string name="earthquake_list_title">Earthquakes</string>
+    <string name="earthquake_details_title">Earthquake location</string>
+    <string name="earthquake_error_message">Error while fetching earthquakes from network</string>
+</resources>
